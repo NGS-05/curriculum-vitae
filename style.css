@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-image: url(../../../Downloads/background.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font: #ffffff;
+}
+
+#Project {
+  background-image: url(../../../Downloads/background.jpeg);
+}
+
+section {
+  padding-top: 5rem;
+}
